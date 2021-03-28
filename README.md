@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+<h3 align="center">
+  Template Create React App Full
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://farsoft.com.br">
+    <img alt="Feito para Farsoft Systems" src="https://img.shields.io/badge/made%20by-Farsoft%20Systems-purple%2306b656?style=flat-square">
+  </a>
 
-## Available Scripts
+  <a href="https://www.github.com/farnetani/">
+    <img alt="Feito por Arlei F. Farnetani Junior" src="https://img.shields.io/badge/solved%20by-Arlei%20F.%20Farnetani%20Junior-%2306b656?style=flat-square">
+  </a>
+</p>
+
+<br>
+
+## :rocket: Sobre o aplicativo
+
+Template padrão que usaremos na Farsoft para o desenvolvimento de nossos frontens em React.
+
+<br>
+
+## :wrench: Instalação e Uso
+
+```bash
 
 In the project directory, you can run:
 
@@ -39,8 +59,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+
+Feito com :heart: por [Arlei F. Farnetani Junior](https://github.com/farnetani)
+
+[![Github Badge](https://img.shields.io/github/followers/farnetani?style=social)](https://img.shields.io/github/followers/farnetani?style=social)
+[![Instagram Badge](https://img.shields.io/badge/-farnetanijr-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/farnetanijr/)](https://www.instagram.com/farnetanijr)
+[![Facebook Badge](https://img.shields.io/badge/-farnetanijr-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/farnetanijr/)](https://www.facebook.com/farnetanijr)
+[![Gmail Badge](https://img.shields.io/badge/-farnetani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farnetani@gmail.com)](mailto:farnetani@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arlei%20F.%20Farnetani%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farnetani/)](https://www.linkedin.com/in/farnetani/)
+
