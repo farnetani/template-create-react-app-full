@@ -18,17 +18,23 @@
 
 Template padrão utilizando STYLED-COMPONENTS que usaremos na Farsoft para o desenvolvimento de nossos frontens em React.
 
-Esse com Styled-Components:
-[template-create-react-app-full](https://github.com/farnetani/template-create-react-app-full)
+## Outros Templates:
 
-Também temos um template com TailwindCSS no link abaixo:
-[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)
+**[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)**
 
-E também temos sem nenhuma LIB de CSS configurada, porém com prettier e mais configurações padrões:
-[template-react-com-prettier](https://github.com/farnetani/template-react-com-prettier)
+Template para minhas aplicações em React com Eslint + Prettier + Jest sem utilizar o create-react-app.
 
-E também um sem usar create-react-app, porém com prettier e mais algumas configurações padrões:
-[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)
+**[template-react-sem-css](https://github.com/farnetani/template-react-sem-css)**
+
+Template com Create-React-App + Prettier + outras configurações porém sem a instalação do tailwindCSS ou styled-components, ficando livre pra instalar o que desejar, e também não está com SASS.
+
+**[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)**
+
+Template com create-react-app + prettier + jest + tailwindcss
+
+**[template-react-styled-components](https://github.com/farnetani/template-react-styled-components)**
+
+Template criado do zero com create-react-app e já configurado para utilizar o styled-components.
 
 <br>
 
