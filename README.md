@@ -16,7 +16,19 @@
 
 ## :rocket: Sobre o aplicativo
 
-Template padrão que usaremos na Farsoft para o desenvolvimento de nossos frontens em React.
+Template padrão utilizando STYLED-COMPONENTS que usaremos na Farsoft para o desenvolvimento de nossos frontens em React.
+
+Esse com Styled-Components:
+[template-create-react-app-full](https://github.com/farnetani/template-create-react-app-full)
+
+Também temos um template com TailwindCSS no link abaixo:
+[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)
+
+E também temos sem nenhuma LIB de CSS configurada, porém com prettier e mais configurações padrões:
+[template-react-com-prettier](https://github.com/farnetani/template-react-com-prettier)
+
+E também um sem usar create-react-app, porém com prettier e mais algumas configurações padrões:
+[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)
 
 <br>
 
