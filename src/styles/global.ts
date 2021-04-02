@@ -27,6 +27,15 @@ html {
   }
 }
 
+body, input, textarea, button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; // tamanho padrao dela e no html = 500
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  font-weight: 600;
+}
+
 // REM = 1rem = font-size = 15 pixes ou 14 pixels dependendo do dispositivo
 // ótima prática, pois tudo se adaptará ao tamanho do dispositivo
 // o legal de usar % ao invés de pixel direto, vai influenciar o lance do tamanho da fonte que o usuário vai utilizar
