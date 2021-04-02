@@ -1,7 +1,10 @@
-export default function App() {
+import { GlobalStyle } from './styles/global'
+
+export function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <GlobalStyle />
+      <h1 className="title">Hello World</h1>
     </div>
-  );
+  )
 }
